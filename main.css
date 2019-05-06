@@ -17,6 +17,10 @@ body{
     background:#fff;
 }
 
+.logo{
+    margin-top: 40px
+}
+
 .tm-header::after{
    content: " ";
     clear: both;
